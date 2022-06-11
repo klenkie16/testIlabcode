@@ -54,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/web_testing/ILabCareersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="128" column="8" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
+            <state relative-caret-position="243">
+              <caret line="123" column="82" lean-forward="true" selection-start-line="123" selection-start-column="82" selection-end-line="123" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -79,6 +79,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -115,204 +118,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="commons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-              <item name="managers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="objectRepository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="reporting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="webPages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ILabProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web_testing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: commons-io:commons-io:2.6" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: commons-io:commons-io:2.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="commons-io-2.6.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: commons-io:commons-io:2.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="commons-io-2.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: net.sourceforge.jexcelapi:jxl:2.6" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: net.sourceforge.jexcelapi:jxl:2.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="jxl-2.6.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: net.sourceforge.jexcelapi:jxl:2.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="jxl-2.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jxl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: net.sourceforge.jexcelapi:jxl:2.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="jxl-2.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jxl" type="462c0819:PsiDirectoryNode" />
-              <item name="write" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59" type="70bed36:NamedLibraryElementNode" />
-              <item name="selenium-api-3.141.59.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ILabCareers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59" type="70bed36:NamedLibraryElementNode" />
-              <item name="selenium-api-3.141.59.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="testIlabcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,6 +206,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653937696507</updated>
     </task>
+    <task id="LOCAL-00001" summary="added a testng file">
+      <created>1654949926512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654949926512</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -424,8 +250,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11821862" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11983806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,6 +279,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added a testng file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a testng file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -595,8 +426,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/web_testing/ILabCareersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="128" column="8" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
+        <state relative-caret-position="243">
+          <caret line="123" column="82" lean-forward="true" selection-start-line="123" selection-start-column="82" selection-end-line="123" selection-end-column="82" />
         </state>
       </provider>
     </entry>
