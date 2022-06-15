@@ -108,25 +108,5 @@ public class ILabCareersTest extends CommonMethods {
             webDriver.quit();
         }
     }
-    @Test
-    private void isPalindrome(){
-        String fibo = "aaba";
-        StringBuilder sb = new StringBuilder(fibo);
-        System.out.println(fibo.equalsIgnoreCase(sb.reverse().toString()));
-
-        System.setProperty("webdriver.chrom.driver","driverpath");
-        WebDriver driver = new ChromeDriver();
-        Actions a = new Actions(driver);
-        a.moveToElement(driver.findElement(By.xpath(""))).click().perform();
-        a.doubleClick().perform();
-        a.moveToElement(driver.findElement(By.xpath(""))).build().perform();
-
-        ArrayList<String> tabs = new ArrayList<String>(driver.getWindowHandles());
-        driver.switchTo().window(tabs.get(1));
-
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        WebDriverWait wait = new WebDriverWait(driver,20);
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//")));
-    }
 }
 
