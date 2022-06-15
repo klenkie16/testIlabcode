@@ -11,7 +11,14 @@ public class CreateExcelFile {
 
     private WritableSheet sheet;
     private WritableWorkbook workbook;
-    
+
+    public void CreateSheetFile(String file) throws Exception {
+        if (this.workbook == null) {
+            this.workbook = Workbook.createWorkbook(new File(file));
+        }
+        this.sheet = this.workbook.createSheet("Report_Sheet", 0);
+    }
+
     public void getExcelSheetFile(String file, String sheetName) {
         try {
             if (this.workbook == null) {
