@@ -56,6 +56,7 @@ public class DriverManager {
 
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver(options);
+        options.addArguments("--headless");
     }
 
     public void createEdgeDriver() {
