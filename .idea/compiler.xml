@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ILabCareers" target="1.5" />
+      <module name="ILabCareers" target="12" />
     </bytecodeTargetLevel>
   </component>
 </project>
